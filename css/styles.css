@@ -1,0 +1,20 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.highlight {
+  color: violet;
+}
+
+.fun-type {
+  color: orange;
+}
+
+.my-class {
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
